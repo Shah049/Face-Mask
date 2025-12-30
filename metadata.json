@@ -1,0 +1,7 @@
+{
+  "name": "MaskGuard AI - Real-Time Vision",
+  "description": "A professional AI-powered computer vision platform for real-time face mask detection using Gemini 3's advanced multimodal capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
